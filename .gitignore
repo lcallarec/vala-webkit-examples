@@ -50,3 +50,10 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+* Project specific
+.cache
+*.h
+*.c
+browser
+webkit-extension.so
